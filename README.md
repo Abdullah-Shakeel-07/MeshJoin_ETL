@@ -30,7 +30,7 @@ The star schema includes the following dimensions and a fact table:
 
 ### Load Java Files
 
-1. Navigate to the `Warehouse->src->warehouse` folder.
+1. Navigate to the `src->warehouse` folder.
 2. Locate the following Java files:
    - `Connection.java`
    - `Main.java`
@@ -77,7 +77,7 @@ While (true):
 
 ### Run Analysis Queries
 
-1. Navigate to the `Warehouse->Queries` folder.
+1. Navigate to the `Queries` folder.
 2. Locate the `Queries.sql` file.
 3. Import the `Queries.sql` file into your MySQL Workbench.
 4. Uncomment each query in the file and run them individually.
