@@ -13,7 +13,7 @@ This project involves building and analyzing a data warehouse prototype for a me
 
 ### Import Star Schema
 
-1. Navigate to the `Warehouse->DDL` folder.
+1. Navigate to the `DDL` folder.
 2. Locate the `warehouse.sql` file.
 3. Import the `warehouse.sql` file into your MySQL Workbench.
 4. Run the script to create a new schema with 6 different tables:
